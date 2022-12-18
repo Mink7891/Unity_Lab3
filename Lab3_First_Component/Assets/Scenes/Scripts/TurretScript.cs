@@ -25,7 +25,7 @@ public class TurretScript : MonoBehaviour
     void Update()
     {
         
-        if (bulletOforOn && goBullet.GetComponent<BulletScript>().BulletInPlayer)
+        if (bulletOforOn && GameObject.Find("Play").GetComponent<Player>().BulletInPlayer)
         {
             OnDetectEvent?.Invoke();
         }
