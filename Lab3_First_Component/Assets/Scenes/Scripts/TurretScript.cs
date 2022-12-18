@@ -8,7 +8,7 @@ public class TurretScript : MonoBehaviour
     public GameObject placeBullet, bullet;
     private GameObject goBullet;
     private bool bulletOforOn = false;
-    public static UnityEvent OnDetectEvent = new UnityEvent();
+    [HideInInspector] public static UnityEvent OnDetectEvent = new UnityEvent();
     // Start is called before the first frame update
     void Start()
     {
