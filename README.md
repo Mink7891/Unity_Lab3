@@ -5,5 +5,5 @@
 ![10](https://user-images.githubusercontent.com/60268613/208308739-8de715ed-9fb3-4600-ab5d-4096f0efa8b3.jpg)
 ![19](https://user-images.githubusercontent.com/60268613/208308742-bbc9e0cb-3678-449c-9cff-8d9d519fd05e.jpg)
 
-Видео объяснение лабораторной на Unity:
+Видео с объяснением лабораторной работы:
 
